@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-hunter/commit/b29fb483a14db7cedbb68d354ffd6188c0415c68",
       "git:hexsha": "b29fb483a14db7cedbb68d354ffd6188c0415c68",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.9.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.9.0",
+      "repolex:parsedAt": "2026-10-20T14:56:42.853013+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-hunter/commit/1eeeb71c788b6da34ce77d832210be3766457cd5",
